@@ -32,11 +32,18 @@ body {
 	text-align: center;
 	width: 100%;
 }
+#objext {
+	text-align: center;
+}
 #main-content h2 {
 	text-shadow: 1px 1px 1px #EE4B3E;
 }
 #nav-list a:hover,a:focus {
-	color: #1FDA9A;
+	color: white;
+}
+#bs-example-navbar-collapse-1 {
+	background-color: #1FDA9A;
+	color: white;
 }
 @media (max-width: 767px) {
     .col-xs-12 {
